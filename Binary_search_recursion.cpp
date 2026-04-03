@@ -18,6 +18,7 @@ int Binary_search(int arr[], int target, int st, int end){
     return -1;
 }
 
+
 int main(){
 
     int arr[] = {2,4,6,8,10,12,14,16,20,89};
