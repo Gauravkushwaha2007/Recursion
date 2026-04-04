@@ -10,7 +10,7 @@ void check(int arr[],int size){
             return;
         }
     }
-    cout<< "\n|||| Given array is sorted in Ascending order|||| \n";
+    cout<< "\n|||| Given array is sorted in Ascending order||\n";
 }
 
 // with the help of Recursion 
